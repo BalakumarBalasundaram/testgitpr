@@ -1,0 +1,1 @@
+INSERT INTO CUSTOMER VALUES (3, 'John', 'Doe', 25);
